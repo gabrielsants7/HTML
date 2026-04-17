@@ -1,5 +1,41 @@
-# Welcome to GitHub Desktop!
+# 🎓 Classroom Simulation
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Simulação de uma interface de sala de aula digital inspirada em plataformas educacionais.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+---
+
+## 🚀 Acesse o Projeto
+🔗 https://gabrielsants7.github.io/Simulacao-Classroom/
+
+---
+
+## 🛠️ Tecnologias
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📚 Sobre o Projeto
+Este projeto consiste na simulação de um ambiente virtual de sala de aula, apresentando:
+
+- Interface inspirada em plataformas educacionais
+- Organização de atividades e conteúdos
+- Estrutura visual semelhante a sistemas de ensino online
+- Layout focado na experiência do usuário
+
+---
+
+## 🎯 Objetivo
+Praticar conceitos de desenvolvimento web, como:
+
+- Construção de interfaces (UI)
+- Organização de conteúdo
+- Estruturação de páginas
+- Estilização e layout
+
+---
+
+## 📂 Como Executar
+```bash
+git clone https://github.com/gabrielsants7/Simulacao-Classroom.git

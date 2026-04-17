@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simulação Classroom
 
 Um repositório de páginas de navegação para disciplinas escolares com foco em sala de aula e ensino remoto.
